@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	width: 960px;
+	box-shadow: 0 0 4px #000;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.sidebar {
+	background-color: #ebebeb;
+	padding-bottom: 10px;
+}
+
+#greeting img {
+	padding-bottom: 10px;
+}
+
+.main {
+	padding-top: 20px;
+}
+
+.list {
+	display: block;
+}
+
+.friend_item {
+	
+}
+
+.friend_item div {
+	box-shadow: 0 0 2px #acacac;
+	margin: 5px;
+}
+
+.friend_item img {
+	margin: 2px;
+
+}
+
+.friend_item p {
+	display: inline;
+}
+
+.btn_paging {
+	width: 100%;
+}
+
+.btn_paging div {
+	padding-bottom: 10px;
+	text-align: center;
+}
